@@ -1,4 +1,4 @@
-(CS744 - Spring 19)[http://pages.cs.wisc.edu/~akella/CS744/S19/papers.html] (Instructor: Aditya)
+[CS744 - Spring 19](http://pages.cs.wisc.edu/~akella/CS744/S19/papers.html) (Instructor: Aditya)
 
 CS744 - Fall 18 (Instructor: Shivaram)
 
